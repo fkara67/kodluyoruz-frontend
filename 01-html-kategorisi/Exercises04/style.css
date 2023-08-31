@@ -27,3 +27,8 @@
     .small-font {
         font-size: small;
     }
+
+    .padding {
+        padding-left: 5px;
+        padding-right: 50px;
+    }
