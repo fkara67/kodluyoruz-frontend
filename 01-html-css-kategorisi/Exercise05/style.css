@@ -1,0 +1,50 @@
+.bg-grey {
+    background-color: rgb(232, 231, 231);
+    height:70px;
+    width: 1270px;
+    margin: 10px auto;
+}
+
+.bg-blue {
+    background-color: aqua;
+}
+
+.bg-green {
+    background-color: chartreuse;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.input {
+    margin-bottom: 0;
+    margin-top: 3px;
+}
+
+button {
+    margin-top: 5px;
+    margin-right: 3px;
+    border-radius: 5px;
+}
+
+.search-box {
+    width: 315px;
+}
+
+
+.box {
+    float: left;
+    margin: auto;
+    padding: 10px;
+    width: 300px;
+    width: 300px;
+}
+
+.box2 {
+    font-size: 2px;
+    width: 4px;
+    height: 4px;
+}
+
+
