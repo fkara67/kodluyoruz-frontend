@@ -1,20 +1,12 @@
 .bg-grey {
-    background-color: rgb(232, 231, 231);
-    height:70px;
+    background-color: #EEEEEE;
+    height:60px;
     width: 1270px;
-    margin: 10px auto;
-}
-
-.bg-blue {
-    background-color: aqua;
-}
-
-.bg-green {
-    background-color: chartreuse;
-}
-
-.bg-yellow {
-    background-color: yellow;
+    margin: 0 auto 0 auto;
+    line-height: normal;
+    font-weight: normal;
+    font-size: small;
+    font-style: normal;
 }
 
 .input {
@@ -29,22 +21,54 @@ button {
 }
 
 .search-box {
-    width: 315px;
+    width: 300px;
 }
 
-
 .box {
+    
     float: left;
-    margin: auto;
-    padding: 10px;
-    width: 300px;
-    width: 300px;
+    margin-top: 2px;
+    margin-right: 2px;
+    width: 180px;
+    height: 70px;
+    padding-right: 5px;
+    padding-left: 85px;
+    line-height: normal;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.box1 {
+    padding-top: 10px;
+    font-size: 15px;
+    margin-left: 55px;
+    width: 380px;
+    height: 58px;
+    background-color: #7EE5DA;
+    font-size: medium;
 }
 
 .box2 {
-    font-size: 2px;
-    width: 4px;
-    height: 4px;
+    
+    font-size: 13px;
+    width: 160px;
+    height: 68px;
+    background-color: #70CCC2;
+    font-size: small;
+}
+
+.box3 {
+    margin-left: 0;
+    margin-right: 50px;
+    padding-left: 85px;
+    width: 457px;
+    height: 68px;
+    background-color: #62B3AA;
+    font-size: x-small;
+}
+
+.footer {
+    margin-top: 80px;
 }
 
 
