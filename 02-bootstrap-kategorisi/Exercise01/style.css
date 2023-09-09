@@ -1,0 +1,31 @@
+.images {
+    margin: 10px;
+}
+
+.card-text {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: small;
+    color: purple;
+}
+
+.container {
+    margin-left: 20%;
+}
+
+h3 {
+    color: rgb(213, 183, 14);
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+}
+
+body {
+    background-color: #E9ECEF;
+}
+
+.jumbotron {
+    margin-right: 29%;
+}
