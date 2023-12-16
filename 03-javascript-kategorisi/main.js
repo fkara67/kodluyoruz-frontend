@@ -79,3 +79,12 @@ liDOM.innerHTML = "Sonradan oluşturulan öge"
 
 //ulDOM.append(liDOM)  en sona ekler
 ulDOM.prepend(liDOM)
+
+let username2 = prompt("Kullanıcı adınızı giriniz:");
+
+if(username2) {
+    console.log(`Kullanıcı Bilginiz ${username2}`);
+}
+else {
+    console.log("Bilgi yok!!!");
+}
