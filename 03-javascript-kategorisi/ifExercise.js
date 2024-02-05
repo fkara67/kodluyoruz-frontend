@@ -64,3 +64,7 @@ if(examGrade >= 0 && examGrade <= 100) {
 console.log(textInfo);
 
 info2.innerHTML = `${textInfo} -> ${examGrade}`;
+
+// write a code to display the textInfo on the screen
+let info = document.querySelector("#greeting");
+console.log(info.innerHTML)
