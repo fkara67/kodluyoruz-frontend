@@ -67,4 +67,4 @@ info2.innerHTML = `${textInfo} -> ${examGrade}`;
 
 // write a code to display the textInfo on the screen
 let info = document.querySelector("#greeting");
-console.log(info.innerHTML)
+console.log(info.innerHTML);
